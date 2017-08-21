@@ -1,0 +1,51 @@
+.little-description {
+	font-size: 1.3em;
+}
+
+section.box {
+	border: 1px solid #ccc;
+	background: #fff;
+	padding: 20px;
+	border-radius: 2px;
+}
+
+section.box p {
+	margin: 0;
+	padding: 0;
+	color: #333;
+}
+
+section.box p.title {
+	font-size: 1.3em;
+	font-weight: 500;
+}
+
+section.box p.author {
+	font-size: 1.1em;
+	margin-bottom: 10px;
+	color: #777;
+}
+
+section.box p.description {
+	font-size: 0.9em;
+	height: 100px;
+	margin-bottom: 10px;
+	overflow-y: scroll;
+}
+
+section.box p.version {
+	font-size: 0.8em;
+}
+
+section.box a.box-button {
+	border: 1px solid #1571d3;
+	color: #1571d3;
+	border-radius: 2px;
+	padding: 3px 10px;
+	font-size: 0.8em;
+}
+
+section.box a.box-button:hover {
+	color: #fff;
+	background: #1571d3;
+}
