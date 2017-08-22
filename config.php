@@ -14,7 +14,8 @@ $topbar = array(
 	'themes'=>'https://themes.bludit.com',
 	'plugins'=>'https://plugins.bludit.com',
 	'donations'=>'https://www.bludit.com#donations',
-	'pro'=>'https://pro.bludit.com'
+	'pro'=>'https://pro.bludit.com',
+	'website'=>DOMAIN
 );
 
 // Language
@@ -53,7 +54,8 @@ if ($defaultLanguage == "es") {
 		'themes'=>'https://themes.bludit.com/es/',
 		'plugins'=>'https://plugins.bludit.com/es/',
 		'donations'=>'https://www.bludit.com/es/#donations',
-		'pro'=>'https://pro.bludit.com/es/'
+		'pro'=>'https://pro.bludit.com/es/',
+		'website'=>DOMAIN.'/es/'
 	);
 } elseif ($defaultLanguage == "de") {
 	$defaultLocale = 'de_DE';
@@ -64,7 +66,8 @@ if ($defaultLanguage == "es") {
 		'themes'=>'https://themes.bludit.com/de/',
 		'plugins'=>'https://plugins.bludit.com/de/',
 		'donations'=>'https://www.bludit.com/de/#donations',
-		'pro'=>'https://pro.bludit.com/de/'
+		'pro'=>'https://pro.bludit.com/de/',
+		'website'=>DOMAIN.'/de/'
 	);
 }
 
