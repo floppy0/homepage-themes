@@ -1,16 +1,12 @@
 {
 	"head-title": "Themes | Bludit",
-	"head-description": "Extend Bludit functionality with amazing plugins. Social networks, HTML Editors, Customize CSS, RSS Feed, Sitemap, Open Graph, Twitter Cards, and more.",
-	"little-description-paragraph1": "<b>Extend</b> Bludit functionality with <b>amazing</b> plugins",
+	"head-description": "Beautiful and cool themes for Bludit. Full support for HTML5, responsive, flexibles, simples and clean themes.",
+	"little-description-paragraph1": "<b>Beautiful</b> and <b>cool</b> themes for Bludit",
 	"demo": "Demo",
-	"links": "Links",
 	"documentation": "Documentation",
 	"themes": "Themes",
 	"plugins": "Plugins",
 	"donations": "Donations",
-	"support": "Support",
-	"chat": "Chat",
-	"forum": "Forum",
 	"download": "Download",
 	"search": "Search",
 	"bludit-license": "Bludit is released under the <a href=\"https://tldrlegal.com/license/mit-license\">MIT license</a>"
