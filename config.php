@@ -4,6 +4,7 @@ define('DS', DIRECTORY_SEPARATOR);
 define('PATH_ROOT', __DIR__.DS);
 define('CHARSET', 'UTF-8');
 define('DOMAIN', 'https://themes.bludit.com');
+define('CDN', 'https://df6m0u2ovo2fu.cloudfront.net');
 define('FILES', PATH_ROOT.'files'.DS);
 
 // TOP Bar links
